@@ -1,3 +1,0 @@
-timestamp,run_id,dataset_hash,features_hash,model_name,params_json,cv_folds,cv_mean_acc,cv_std_acc,val_acc,val_f1,val_precision,val_recall,train_time_s,notes,kaggle_score
-,20251020_094653__smoke-test,,,smoke-test,"{""check"": true}",,,,,,,,1.430511474609375e-06,import+finalize
-20251020_225011,20251020_225011__random-forest,f93c2097b02618242ecf3ae9c8c55a88,f1ed4e31603aa7eb483cc481a7b09476,Random Forest,"{""n_estimators"": 100, ""max_depth"": null, ""min_samples_split"": 2, ""min_samples_leaf"": 1, ""random_state"": 42}",,,,0.8100558659217877,0.746268656716418,0.7692307692307693,0.7246376811594203,116.03475403785706,Baseline Random Forest - exp1 features,0.75598
